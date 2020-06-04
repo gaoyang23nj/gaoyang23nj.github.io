@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>我的第一段 JavaScript</h2>
+
+<button type="button"
+onclick="myFunction()">
+click
+</button>
+<script>
+function myFunction() {
+	var address=window.location.href; //url
+	var hostport=document.location.host;//ip:端口号
+	document.getElementById("hostport").innerHTML = hostport;
+    document.getElementById("address").innerHTML = address;
+
+}
+</script>
+
+
+<p id="address"></p>
+<p id="hostport"></p>
+
+</body>
+</html>
