@@ -41,12 +41,9 @@ layout: default
 ## 网站
 1. pdfdrive
 
-## [读小说](./links/novel.html).
+## [读小说](./links/novel.html)
 
 * * *
 
-[参考网页](./links/example.html).
+[参考网页](./links/example.html)
 
-```
-The final element.
-```
