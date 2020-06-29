@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# 植树浇水种太阳
 
 ## 读书
 - 网络
@@ -40,10 +41,11 @@ layout: default
 ## 网站
 1. pdfdrive
 
+## [读小说](./links/novel.html).
 
 * * *
 
-[参考网页](./example.html).
+[参考网页](./links/example.html).
 
 ```
 The final element.
