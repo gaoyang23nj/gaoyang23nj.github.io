@@ -2,26 +2,9 @@
 layout: default
 ---
 
-# 读书
-* TCP/IP详解：卷1
-* 网络安全导论
-* 现代网络技术:SDN、NFV、QoE、物联网和云计算
-* 电磁场与电磁波
-
-# 视频
-* 微波五讲
-* 电磁场与电磁波
-
-# 读论文
-
-
-[参考网页](./example.html).
-
-* * *
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./example.html).
+[Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
