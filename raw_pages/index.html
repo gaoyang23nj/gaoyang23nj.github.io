@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>费曼物理学讲义--摘抄</title>
+	<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+	<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+	
+	<style>
+		#header {
+			align:center;
+			background-color:white;
+			color:black;
+			text-align:center;
+			width:1030px;
+			border-color:black;
+			border-style:double;
+			padding:10px;
+			margin:10px;
+		}
+		#nav {
+			line-height:30px;
+			background-color:#FFFFFF;
+			border-color:black;
+			border-style:solid;
+			border-width:1px
+			height:300px;
+			width:200px;
+			float:left;
+			padding:10px;	
+			margin:10px;	
+		}
+		#section {
+			background-color:#F0F0F0;
+			width:800px;
+			float:left;
+			padding:10px;	
+			margin:10px;			
+		}
+		#footer {
+			background-color:black;
+			color:white;
+			clear:both;
+			text-align:center;
+			padding:5px;	 	 
+		}
+	</style>
+
+  </head>
+
+  <body>
+	<div id="header">
+		<h1>费曼物理学讲义--摘抄</h1>
+	</div>
+	<div id="nav">
+		万有引力定律<br>
+		麦克斯韦方程组<br>
+		海森伯不确定性原理<br>
+		E.g.<br>
+	</div>
+	
+	<div id="section">
+		<ul>
+			<li><h3>万有引力定律</h3>
+				<p>
+					$$ F = G \frac{mm'}{r^{2}}$$
+				</p>
+			</li>
+			
+			<li><h3>麦克斯韦方程组</h3>
+				<p>
+					$$ \nabla \times H = J + \frac{\partial D}{\partial t}$$
+					$$ \nabla \times E = - \frac{\partial B}{\partial t}$$
+					$$ \nabla\cdot B = 0 $$
+					$$ \nabla\cdot D = \rho$$
+					其中,\(\nabla \times\)即\(\vec{\nabla} \times\)矢量场旋度.
+				</p>
+			</li>
+
+			<li><h3>海森伯不确定性原理</h3>
+				<p>
+					$$ [\Delta x] \cdot [\Delta v] \leq \frac{h}{m}$$
+					其中,\(h\)是普朗克常量, \(m\)是质量.
+				</p>
+			</li>
+
+			<li><h3>E.g.</h3>
+
+
+				<h4>The Quadratic Formula</h4>
+				\[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
+
+				<h4>Cauchy's Integral Formula</h4>
+				\[f(a) = \frac{1}{2\pi i} \oint\frac{f(z)}{z-a}dz\]
+
+				<h4>Angle Sum Formula for Cosines</h4>
+				\[ \cos(\theta+\phi)=\cos(\theta)\cos(\phi)−\sin(\theta)\sin(\phi) \]
+
+				<h4>Gauss' Divergence Theorem 散度</h4>
+				\[ \int_D ({\nabla\cdot} F)dV=\int_{\partial D} F\cdot ndS \]
+
+				<h4>Curl of a Vector Field 旋度</h4>
+				\[ \vec{\nabla} \times \vec{F} =
+				\left( \frac{\partial F_z}{\partial y} - \frac{\partial F_y}{\partial z} \right) \mathbf{i}
+				+ \left( \frac{\partial F_x}{\partial z} - \frac{\partial F_z}{\partial x} \right) \mathbf{j}
+				+ \left( \frac{\partial F_y}{\partial x} - \frac{\partial F_x}{\partial y} \right) \mathbf{k} \]
+
+				<h4>Standard Deviation</h4>
+				\[\sigma = \sqrt{ \frac{1}{N} \sum_{i=1}^N (x_i -\mu)^2} \]
+
+				<h4>Definition of Christoffel Symbols</h4>
+				\[(\nabla_X Y)^k = X^i (\nabla_i Y)^k =
+				X^i \left( \frac{\partial Y^k}{\partial x^i} + \Gamma_{im}^k Y^m \right)\]
+
+			</li>
+		</ul>
+	</div>
+
+	
+	<script>
+	!function(){
+	function n(n,e,t){
+	return n.getAttribute(e)||t
+	}
+
+	function e(n){
+	return document.getElementsByTagName(n)
+	}
+
+	function t(){
+	var t=e("script"),o=t.length,i=t[o-1];
+	return{
+	l:o,z:n(i,"zIndex",-1),o:n(i,"opacity",.5),c:n(i,"color","0,0,0"),n:n(i,"count",99)
+	}
+	}
+
+	function o(){
+	a=m.width=window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth,
+	c=m.height=window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight
+	}
+
+	function i(){
+	r.clearRect(0,0,a,c);
+	var n,e,t,o,m,l;
+	s.forEach(function(i,x){
+	for(i.x+=i.xa,i.y+=i.ya,i.xa*=i.x>a||i.x<0?-1:1,i.ya*=i.y>c||i.y<0?-1:1,r.fillRect(i.x-.5,i.y-.5,1,1),e=x+1;e<u.length;e++)n=u[e],
+	null!==n.x&&null!==n.y&&(o=i.x-n.x,m=i.y-n.y,
+	l=o*o+m*m,l<n.max&&(n===y&&l>=n.max/2&&(i.x-=.03*o,i.y-=.03*m),
+	t=(n.max-l)/n.max,r.beginPath(),r.lineWidth=t/2,r.strokeStyle="rgba("+d.c+","+(t+.2)+")",r.moveTo(i.x,i.y),r.lineTo(n.x,n.y),r.stroke()))
+	}),
+	x(i)
+	}
+
+	var a,c,u,m=document.createElement("canvas"),
+	d=t(),l="c_n"+d.l,r=m.getContext("2d"),
+	x=window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRequestAnimationFrame||window.oRequestAnimationFrame||window.msRequestAnimationFrame||
+	function(n){
+	window.setTimeout(n,1e3/45)
+	},
+
+	w=Math.random,y={x:null,y:null,max:2e4};m.id=l,m.style.cssText="position:fixed;top:0;left:0;z-index:"+d.z+";opacity:"+d.o,e("body")[0].appendChild(m),o(),window.onresize=o,
+	window.onmousemove=function(n){
+	n=n||window.event,y.x=n.clientX,y.y=n.clientY
+	},
+
+	window.onmouseout=function(){
+	y.x=null,y.y=null
+	};
+
+	for(var s=[],f=0;d.n>f;f++){
+	var h=w()*a,g=w()*c,v=2*w()-1,p=2*w()-1;s.push({x:h,y:g,xa:v,ya:p,max:6e3})
+	}
+
+	u=s.concat([y]),
+	setTimeout(function(){i()},100)
+	}();
+	</script>
+  </body>
+</html>
