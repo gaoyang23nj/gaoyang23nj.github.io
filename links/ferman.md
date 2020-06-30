@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-$$ \[\delta t\]\cdot\[\delta v\] \leq \frac{h}{m} $$
+$$ \[\Delta t\]\cdot\[\Delta v\] \leq \frac{h}{m} $$
