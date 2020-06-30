@@ -20,6 +20,8 @@ layout: default
 - 通信
 	* 电磁场与电磁波
 
+- [费曼物理学讲义](./links/ferman.html)
+
 ## 读论文
 * JSAC
 * TON
