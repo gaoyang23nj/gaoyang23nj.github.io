@@ -2,7 +2,7 @@
 layout: default
 ---
 # 植树浇水种太阳
-# [raw page](./raw_pages/index.html)
+
 ## 读书
 - 网络
 	* TCP/IP详解：卷1
@@ -20,7 +20,7 @@ layout: default
 - 通信
 	* 电磁场与电磁波
 
-- [费曼物理学讲义](./links/ferman.html)
+- [费曼物理学讲义](./raw_pages/index.html)
 
 ## 读论文
 * JSAC
