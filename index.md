@@ -1,12 +1,11 @@
 ---
 layout: default
 ---
-#
-I am a Phd student in Southeast University from 2017.
+
+I am a Phd student in Southeast University, Nanjing, China from 2017. 
 I focus on Opportunistic Network, Selfish Behaviors and Internet of Things.
 
-
-# Paper List
+## Paper List
 
 - Yang Gao, Jun Tao, Qian Fang, Zu-Yan Wang, Xiao-Yan Li, Feng Xue. 
 POF: Probability-Driven Opportunistic Forwarding for Bike-Sharing System [J]. 
@@ -20,7 +19,7 @@ IEEE International Conference on Multimedia and Expo (ICME) 2019. (CCF-B)
 Collaborative Route Plan for Parking Sites Selection in Bike-Sharing Systems [C]. 
 2018 IEEE 22nd International Conference on Computer Supported Cooperative Work in Design (CSCWD 2018). (CCF-C)
 
-# Co-Author Paper List
+## Co-Author Paper List
 
 - Z. Wang, J.Tao, Y. Gao, Y. Xu, W. Sun, X. Li.
 A Precision Adjustable Trajectory Planning Scheme for UAV-based Data Collection in IoTs [J].
@@ -31,9 +30,9 @@ Peer-to-Peer Networking and Applications (CCF-C)
 
 - J. Tao, H. Wu, S. Shi, J. Hu and Y. Gao.
 Contacts-Aware Opportunistic Forwarding in Mobile Social Networks: A Community Perspective [C].
-IEEE Wireless Communications and Networking Conference (WCNC 2018). (CCF-C类)
+IEEE Wireless Communications and Networking Conference (WCNC 2018). (CCF-C)
 
-Y. Xu, J. Tao, Y. Gao and L. Zeng.
+- Y. Xu, J. Tao, Y. Gao and L. Zeng.
 Location-aware Worker Selection for Mobile Opportunistic Crowdsensing in VANETs [C]. 
 60th IEEE Global Telecommunications Conf. (GLOBECOM'17), Singapore, 2017. (CCF-C)
 
