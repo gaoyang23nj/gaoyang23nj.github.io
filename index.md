@@ -1,53 +1,42 @@
 ---
 layout: default
 ---
-# 植树浇水种太阳
-
-## 读书
-- 网络
-	* TCP/IP详解：卷1
-	* 网络安全导论
-	* 现代网络技术:SDN、NFV、QoE、物联网和云计算
-
-- 数学
-	* 数学:它的内容、方法和意义(卷一、卷二、~~卷三~~)
-	* 随机过程
-
-- 计算机
-	* 机器学习
-	* 图解密码技术
-
-- 通信
-	* 电磁场与电磁波
-
-- [费曼物理学讲义](./raw_pages/index.html)
-
-## 读论文
-* JSAC
-* TON
-* TMC
-* INFOCOM
-
-* FGCS
-* TVT
-
-## 视频
-- 机器学习
-	- 目标检测
-		- yolov3
-- 通信
-	* 电磁场与电磁波
-	* 微波五讲
+#
+I am a Phd student in Southeast University from 2017.
+I focus on Opportunistic Network, Selfish Behaviors and Internet of Things.
 
 
-## 网站
-1. pdfdrive
-2. sci-hub
-3. MOOC
+# Paper List
 
-## [读小说](./links/novel.html)
+- Yang Gao, Jun Tao, Qian Fang, Zu-Yan Wang, Xiao-Yan Li, Feng Xue. 
+POF: Probability-Driven Opportunistic Forwarding for Bike-Sharing System [J]. 
+IEEE Access, vol. 7, issue 1, 2019, pp. 52214–52225
 
-* * *
+- Yang Gao, Jun Tao, Li Zeng, Xiaoming Fang, Qian Fang, Xiaoyan Li.
+User Profiling with Campus Wi-Fi Access Trace and Network Traffic [C].
+IEEE International Conference on Multimedia and Expo (ICME) 2019. (CCF-B)
 
-[参考网页](./links/example.html)
+- Y. Gao, J. Tao, Y. Xu, H. Wu and K. Noah.
+Collaborative Route Plan for Parking Sites Selection in Bike-Sharing Systems [C]. 
+2018 IEEE 22nd International Conference on Computer Supported Cooperative Work in Design (CSCWD 2018). (CCF-C)
+
+# Co-Author Paper List
+
+- Z. Wang, J.Tao, Y. Gao, Y. Xu, W. Sun, X. Li.
+A Precision Adjustable Trajectory Planning Scheme for UAV-based Data Collection in IoTs [J].
+Peer-to-Peer Networking and Applications (CCF-C)
+
+- 陶军，施书静，冯富琴，高扬. 节点位置信息驱动的物联网终端缓存管理机制的研究 [J].
+计算机学报, 42(2),2019,pp.252-265.
+
+- J. Tao, H. Wu, S. Shi, J. Hu and Y. Gao.
+Contacts-Aware Opportunistic Forwarding in Mobile Social Networks: A Community Perspective [C].
+IEEE Wireless Communications and Networking Conference (WCNC 2018). (CCF-C类)
+
+Y. Xu, J. Tao, Y. Gao and L. Zeng.
+Location-aware Worker Selection for Mobile Opportunistic Crowdsensing in VANETs [C]. 
+60th IEEE Global Telecommunications Conf. (GLOBECOM'17), Singapore, 2017. (CCF-C)
+
+## [Life](./index-2.html)
+
 
