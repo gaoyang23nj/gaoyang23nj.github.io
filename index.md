@@ -2,8 +2,9 @@
 layout: default
 ---
 
-I am a Phd student in Southeast University, Nanjing, China from 2017. 
-I focus on Opportunistic Network, Selfish Behaviors and Internet of Things.
+I'm a PhD student in Southeast University, Nanjing, China from 2017. 
+My research focuses on Opportunistic Network, Selfish Behavior, Mobi1e Computing
+and Internet of Things.
 
 ## Paper List
 
@@ -36,6 +37,6 @@ IEEE Wireless Communications and Networking Conference (WCNC 2018). (CCF-C)
 Location-aware Worker Selection for Mobile Opportunistic Crowdsensing in VANETs [C]. 
 60th IEEE Global Telecommunications Conf. (GLOBECOM'17), Singapore, 2017. (CCF-C)
 
-## [Life](./links/index-2.html)
+## [Life](./links/life.html)
 
 

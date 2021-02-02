@@ -10,26 +10,18 @@ layout: default
 	* 现代网络技术:SDN、NFV、QoE、物联网和云计算
 
 - 数学
-	* 数学:它的内容、方法和意义(卷一、卷二、~~卷三~~)
 	* 随机过程
+	* 常微分方程
+	* 随机微分方程(Ito)
 
 - 计算机
 	* 机器学习
-	* 图解密码技术
+	* 密码技术(Millionaire Problem)
+	* Differential Privacy
 
 - 通信
 	* 电磁场与电磁波
-
-- [费曼物理学讲义](./raw_pages/index.html)
-
-## 读论文
-* JSAC
-* TON
-* TMC
-* INFOCOM
-
-* FGCS
-* TVT
+	* VANET 802.11p
 
 ## 视频
 - 机器学习
@@ -45,7 +37,7 @@ layout: default
 2. sci-hub
 3. MOOC
 
-## [读小说](./links/novel.html)
+## [广泛地读书](novel.html)
 
 * * *
 
