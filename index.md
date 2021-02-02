@@ -6,8 +6,6 @@ I'm a PhD student in Southeast University, Nanjing, China from 2017.
 My research focuses on Opportunistic Network, Selfish Behavior, Mobi1e Computing
 and Internet of Things.
 
-## Paper List
-
 - **Yang Gao**, Jun Tao, Qian Fang, Zu-Yan Wang, Xiao-Yan Li, Feng Xue. 
 POF: Probability-Driven Opportunistic Forwarding for Bike-Sharing System [J]. 
 IEEE Access, vol. 7, issue 1, 2019, pp. 52214–52225
@@ -20,7 +18,7 @@ IEEE International Conference on Multimedia and Expo (ICME) 2019. (CCF-B)
 Collaborative Route Plan for Parking Sites Selection in Bike-Sharing Systems [C]. 
 2018 IEEE 22nd International Conference on Computer Supported Cooperative Work in Design (CSCWD 2018). (CCF-C)
 
-## Co-Author Paper List
+co-author paper:
 
 - Z. Wang, J.Tao, **Y. Gao**, Y. Xu, W. Sun, X. Li.
 A Precision Adjustable Trajectory Planning Scheme for UAV-based Data Collection in IoTs [J].
