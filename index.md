@@ -36,6 +36,6 @@ IEEE Wireless Communications and Networking Conference (WCNC 2018). (CCF-C)
 Location-aware Worker Selection for Mobile Opportunistic Crowdsensing in VANETs [C]. 
 60th IEEE Global Telecommunications Conf. (GLOBECOM'17), Singapore, 2017. (CCF-C)
 
-## [Life](./index-2.html)
+## [Life](./links/index-2.html)
 
 
