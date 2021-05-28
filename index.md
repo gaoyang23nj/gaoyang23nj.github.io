@@ -6,7 +6,7 @@ I'm a PhD student in Southeast University, Nanjing, China from 2017.
 My research focuses on Opportunistic Network, Selfish Behavior, Mobi1e Computing
 and Internet of Things.
 
-- **Y. Gao**, J. Tao*, Y. Xu, Z. Wang, W. Sun, G. Cheng.
+- **Yang Gao**, Jun Tao*, Yifan Xu, Zuyan Wang, Weice Sun, Guang Cheng.
 CEBD: Contact Evidence-driven Blackhole Detection based on Machine Learning in OppNets [J].
 IEEE Transactions on Computational Social Systems (DOI: 10.1109/TCSS.2021.3078160) (accepted).
 
