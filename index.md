@@ -8,7 +8,7 @@ and Internet of Things.
 
 - **Yang Gao**, Jun Tao*, Zuyan Wang, Wenqiang Li, Guang Cheng.
 Analytical Optimal Solution of Selfish Node Detection with 2-hop Constraints in OppNets [C].
-2021 IEEE 18th International Conference on Mobile Ad Hoc and Smart Systems(MASS)(CCF-C)(accepted) .
+2021 IEEE 18th International Conference on Mobile Ad Hoc and Smart Systems(MASS)(CCF-C)(accepted).
 
 - **Yang Gao**, Jun Tao*, Yifan Xu, Zuyan Wang, Weice Sun, Guang Cheng.
 CEBD: Contact Evidence-driven Blackhole Detection based on Machine Learning in OppNets [J].
@@ -16,7 +16,7 @@ IEEE Transactions on Computational Social Systems (DOI: 10.1109/TCSS.2021.307816
 
 - **Yang Gao**, Jun Tao*, Qian Fang, Zu-Yan Wang, Xiao-Yan Li, Feng Xue. 
 POF: Probability-Driven Opportunistic Forwarding for Bike-Sharing System [J]. 
-IEEE Access, vol. 7, issue 1, 2019, pp. 52214–52225
+IEEE Access, vol. 7, issue 1, 2019, pp. 52214–52225.
 
 - **Yang Gao**, Jun Tao*, Li Zeng, Xiaoming Fang, Qian Fang, Xiaoyan Li.
 User Profiling with Campus Wi-Fi Access Trace and Network Traffic [C].
@@ -24,11 +24,14 @@ IEEE International Conference on Multimedia and Expo (ICME) 2019. (CCF-B)
 
 - **Yang Gao**, Jun Tao*, Yifan Xu, Haotian Wu, Noah Kwaku Baah.
 Collaborative Route Plan for Parking Sites Selection in Bike-Sharing Systems [C]. 
-2018 IEEE 22nd International Conference on Computer Supported Cooperative Work in Design (CSCWD 2018). (CCF-C)
+2018 IEEE 22nd International Conference on Computer Supported Cooperative Work in Design (CSCWD 2018)(CCF-C).
 
 co-author paper:
+- Weice Sun, Jun Tao*, Yifan Xu, **Yang Gao**, Zuyan Wang. 
+Network Latency Estimation: A Tensor-Based Weighted Singular Value Thresholding Method [C].
+IEEE 2021 International Conference on High Performance Computing and Communications(HPCC), 2021(CCF-C)(accepted).
 
-- Z. Wang, J.Tao*, **Y. Gao**, Y. Xu, W. Sun, X. Li.
+- Zuyan Wang, Jun Tao*, **Yang Gao**, Yifan Xu, Weice Sun, Xiaoyan Li.
 A Precision Adjustable Trajectory Planning Scheme for UAV-based Data Collection in IoTs [J].
 Peer-to-Peer Networking and Applications (CCF-C)
 
