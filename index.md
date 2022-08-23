@@ -6,45 +6,44 @@ I'm a PhD student in Southeast University, Nanjing, China from 2017.
 My research focuses on Opportunistic Network, Selfish Behavior, Mobi1e Computing
 and Internet of Things.
 
-- **Yang Gao**, Jun Tao*, Zuyan Wang, Wenqiang Li, Guang Cheng.
-Analytical Optimal Solution of Selfish Node Detection with 2-hop Constraints in OppNets [C].
-2021 IEEE 18th International Conference on Mobile Ad Hoc and Smart Systems(MASS)(CCF-C)(accepted).
+- **Yang Gao**, Jun Tao*, Zuyan Wang, Wenqiang Li, Guang Cheng. Analytical Optimal Solution of Selfish Node Detection with 2-hop Constraints in OppNets[C]. 
+Proceedings of the 18th IEEE International Conference on Mobile Ad Hoc and Smart Systems (MASS), 2021, online, 53-61.(CCF-C)
 
-- **Yang Gao**, Jun Tao*, Yifan Xu, Zuyan Wang, Weice Sun, Guang Cheng.
-CEBD: Contact Evidence-driven Blackhole Detection based on Machine Learning in OppNets [J].
-IEEE Transactions on Computational Social Systems (DOI: 10.1109/TCSS.2021.3078160).
+- **Yang Gao**, Jun Tao*, Yifan Xu, Zuyan Wang, Weice Sun, Guang Cheng. 
+CEBD: Contact Evidence-driven Blackhole Detection based on Machine Learning in OppNets[J]. 
+IEEE Transactions on Computational Social Systems (TCSS), 2021, 8(6): 1344-1356.
 
 - **Yang Gao**, Jun Tao*, Qian Fang, Zu-Yan Wang, Xiao-Yan Li, Feng Xue. 
 POF: Probability-Driven Opportunistic Forwarding for Bike-Sharing System [J]. 
-IEEE Access, vol. 7, issue 1, 2019, pp. 52214–52225.
+IEEE Access, 2019, 7(1): 52214–52225.
 
 - **Yang Gao**, Jun Tao*, Li Zeng, Xiaoming Fang, Qian Fang, Xiaoyan Li.
 User Profiling with Campus Wi-Fi Access Trace and Network Traffic [C].
-IEEE International Conference on Multimedia and Expo (ICME) 2019. (CCF-B)
+IEEE International Conference on Multimedia and Expo (ICME), 2019, Shanghai, 922-927.(CCF-B)
 
 - **Yang Gao**, Jun Tao*, Yifan Xu, Haotian Wu, Noah Kwaku Baah.
 Collaborative Route Plan for Parking Sites Selection in Bike-Sharing Systems [C]. 
-2018 IEEE 22nd International Conference on Computer Supported Cooperative Work in Design (CSCWD 2018)(CCF-C).
+2018 IEEE 22nd International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2018, Nanjing, 814-819.(CCF-C)
 
 co-author paper:
 - Weice Sun, Jun Tao*, Yifan Xu, **Yang Gao**, Zuyan Wang. 
 Network Latency Estimation: A Tensor-Based Weighted Singular Value Thresholding Method [C].
-IEEE 2021 International Conference on High Performance Computing and Communications(HPCC), 2021(CCF-C)(accepted).
+IEEE 2021 International Conference on High Performance Computing and Communications(HPCC), 2021.(CCF-C).
 
 - Zuyan Wang, Jun Tao*, **Yang Gao**, Yifan Xu, Weice Sun, Xiaoyan Li.
 A Precision Adjustable Trajectory Planning Scheme for UAV-based Data Collection in IoTs [J].
-Peer-to-Peer Networking and Applications (CCF-C)
+Peer-to-Peer Networking and Applications, 2021, 14, 655-671.(CCF-C)
 
 - 陶军*，施书静，冯富琴，**高扬**. 节点位置信息驱动的物联网终端缓存管理机制的研究 [J].
-计算机学报, 42(2),2019,pp.252-265.
+计算机学报, 2019, 42(2): 252-265.
 
 - J. Tao*, H. Wu, S. Shi, J. Hu and **Y. Gao**.
 Contacts-Aware Opportunistic Forwarding in Mobile Social Networks: A Community Perspective [C].
-IEEE Wireless Communications and Networking Conference (WCNC 2018). (CCF-C)
+IEEE Wireless Communications and Networking Conference (WCNC), 2018, Spain. (CCF-C)
 
 - Y. Xu, J. Tao*, **Y. Gao** and L. Zeng.
 Location-aware Worker Selection for Mobile Opportunistic Crowdsensing in VANETs [C]. 
-60th IEEE Global Telecommunications Conf. (GLOBECOM'17), Singapore, 2017. (CCF-C)
+60th IEEE Global Telecommunications Conference (GLOBECOM), 2017, Singapore. (CCF-C)
 
 
 
