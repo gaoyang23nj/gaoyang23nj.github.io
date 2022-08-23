@@ -37,11 +37,11 @@ Peer-to-Peer Networking and Applications, 2021, 14, 655-671.(CCF-C)
 - 陶军*，施书静，冯富琴，**高扬**. 节点位置信息驱动的物联网终端缓存管理机制的研究 [J].
 计算机学报, 2019, 42(2): 252-265.
 
-- J. Tao*, H. Wu, S. Shi, J. Hu and **Y. Gao**.
+- Jun Tao*, Haotian Wu, Shujing Shi, Jing Hu, **Yang Gao**.
 Contacts-Aware Opportunistic Forwarding in Mobile Social Networks: A Community Perspective [C].
 IEEE Wireless Communications and Networking Conference (WCNC), 2018, Spain. (CCF-C)
 
-- Y. Xu, J. Tao*, **Y. Gao** and L. Zeng.
+- Yifan Xu, Jun Tao*, **Yang Gao**, Li Zeng.
 Location-aware Worker Selection for Mobile Opportunistic Crowdsensing in VANETs [C]. 
 60th IEEE Global Telecommunications Conference (GLOBECOM), 2017, Singapore. (CCF-C)
 
