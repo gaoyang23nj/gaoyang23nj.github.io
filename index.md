@@ -2,8 +2,8 @@
 layout: default
 ---
 
-**Yang Gao** received the Ph.D. degree from Southeast University, Nanjing, China in 2022.
-He is currently a Lecturer in Hainan University, Haikou, China.
+**Yang Gao** received the Ph.D. degree from Southeast University, Nanjing, China, in 2022.
+He is currently a Lecturer with the School of Cyberspace Security, Hainan University, Haikou, China.
 His research interests include Opportunistic Network, Selfish Behavior, Mobi1e Computing and Internet of Things.
 
 Papers:
