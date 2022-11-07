@@ -28,7 +28,7 @@ Proceedings of the IEEE International Conference on Multimedia and Expo (ICME), 
 Collaborative Route Plan for Parking Sites Selection in Bike-Sharing Systems[C]. 
 Proceedings of the 22nd IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2018, Nanjing, 814-819. (CCF-C)
 
-co-author paper:
+Co-Author Papers:
 - Zuyan Wang, Jun Tao*, **Yang Gao**, Yifan Xu, Weice Sun, Yu Gao, Wenqiang Li.
 Joint flight scheduling and task allocation for secure data collection in UAV-aided IoTs[J].
 Computer Networks, 2022, 207, 108849. (CCF-B)
