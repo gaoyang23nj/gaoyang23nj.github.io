@@ -14,7 +14,7 @@ Proceedings of the 18th IEEE International Conference on Mobile Ad Hoc and Smart
 
 - **Yang Gao**, Jun Tao*, Yifan Xu, Zuyan Wang, Weice Sun, Guang Cheng. 
 CEBD: Contact Evidence-driven Blackhole Detection based on Machine Learning in OppNets[J]. 
-IEEE Transactions on Computational Social Systems (TCSS), 2021, 8(6): 1344-1356.
+IEEE Transactions on Computational Social Systems (TCSS), 2021, 8(6): 1344-1356. (CCF-C)
 
 - **Yang Gao**, Jun Tao*, Qian Fang, Zu-Yan Wang, Xiao-Yan Li, Feng Xue. 
 POF: Probability-Driven Opportunistic Forwarding for Bike-Sharing System[J]. 
