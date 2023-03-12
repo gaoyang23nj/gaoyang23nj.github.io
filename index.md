@@ -30,8 +30,8 @@ Proceedings of the 22nd IEEE International Conference on Computer Supported Coop
 
 Co-Author Papers:
 - Zuyan Wang, Jun Tao*, Yifan Xu, **Yang Gao**, Dikai Zou.
-Towards the Minimal Wait for Delay for Rechargeable WSNs with Multiple Mobile Chargers.
-ACM Transaction on Sensor Networks, 2023. (accepted)
+Towards the Minimal Wait for Delay for Rechargeable WSNs with Multiple Mobile Chargers[J].
+ACM Transaction on Sensor Networks, 2023. (CCF-B, accepted)
 
 - Zuyan Wang, Jun Tao*, **Yang Gao**, Yifan Xu, Weice Sun, Yu Gao, Wenqiang Li.
 Joint flight scheduling and task allocation for secure data collection in UAV-aided IoTs[J].
