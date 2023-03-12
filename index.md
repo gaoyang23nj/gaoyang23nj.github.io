@@ -29,6 +29,10 @@ Collaborative Route Plan for Parking Sites Selection in Bike-Sharing Systems[C].
 Proceedings of the 22nd IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2018, Nanjing, 814-819. (CCF-C)
 
 Co-Author Papers:
+- Zuyan Wang, Jun Tao*, Yifan Xu, **Yang Gao**, Dikai Zou.
+Towards the Minimal Wait for Delay for Rechargeable WSNs with Multiple Mobile Chargers.
+ACM Transaction on Sensor Networks, 2023. (accepted)
+
 - Zuyan Wang, Jun Tao*, **Yang Gao**, Yifan Xu, Weice Sun, Yu Gao, Wenqiang Li.
 Joint flight scheduling and task allocation for secure data collection in UAV-aided IoTs[J].
 Computer Networks, 2022, 207, 108849. (CCF-B)
