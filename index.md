@@ -28,7 +28,6 @@ Proceedings of the IEEE International Conference on Multimedia and Expo (ICME), 
 Collaborative Route Plan for Parking Sites Selection in Bike-Sharing Systems[C]. 
 Proceedings of the 22nd IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2018, Nanjing, 814-819. (CCF-C)
 
-Co-Author Papers:
 - Zuyan Wang, Jun Tao*, Yifan Xu, **Yang Gao**, Dikai Zou.
 Towards the Minimal Wait for Delay for Rechargeable WSNs with Multiple Mobile Chargers[J].
 ACM Transaction on Sensor Networks, 2023. (CCF-B, accepted)
